@@ -7,7 +7,7 @@ This is useful if you are often opening [Waffle.io](http://waffle.io) to create 
 
 ## Instructions ##
 
-To use this script add to a folder in your path. I have a folder called '''.scripts''' in my home directory. 
+To use this script add to a folder in your path. I have a directory called ```.scripts``` in my home directory. 
 It is important to add this to your path (.bash_profile or .bash_rc)
 
 ```
