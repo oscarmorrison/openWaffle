@@ -30,19 +30,24 @@ source .bash_profile
 Next you need to clone or download the script:
 
 clone repo:    
-    git clone https://github.com/oscarmorrison/openWaffle.git
-or downloa: 
-    curl -O https://raw.githubusercontent.com/oscarmorrison/openWaffle/master/openWaffle
+```
+git clone https://github.com/oscarmorrison/openWaffle.git
+```
+or download:
+```
+curl -O https://raw.githubusercontent.com/oscarmorrison/openWaffle/master/openWaffle
+```
+
 to your new scripts directory
 now you need to make executable
 ```
 chmod 775 openWaffle
 ```
 
-Now all you need to do is go to a bitbucket or github hosted repo and type
+Now all you need to do is go to a github repo that has a waffle project and type
 ```
 openWaffle
 ```
-and it will open your browser to the repo online.
+and it will open your browser to the waffle project.
 
 Enjoy!
